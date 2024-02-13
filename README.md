@@ -25,7 +25,7 @@ O projeto foi criado utilizando o Vite.js, e seu foco é na renderização pelo 
 
 A página em formato desktop é vista na imagem abaixo:
 
-![PizzaShop Dashboard](https://github.com/Samuel1s/pizza-shop/assets/dashboard.png)
+![PizzaShop Dashboard](https://github.com/Samuel1s/pizza-shop/blob/main/assets/dashboard.png)
 
 ---
 
